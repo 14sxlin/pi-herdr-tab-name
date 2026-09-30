@@ -1,0 +1,27 @@
+{
+  "name": "pi-herdr-tab-name",
+  "version": "0.1.0",
+  "description": "Sync the pi coding agent session name to the herdr tab label",
+  "type": "module",
+  "keywords": [
+    "pi-package",
+    "pi",
+    "herdr",
+    "terminal",
+    "tab",
+    "session-name"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "index.ts",
+    "README.md"
+  ],
+  "pi": {
+    "extensions": [
+      "./index.ts"
+    ]
+  }
+}
