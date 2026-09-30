@@ -12,6 +12,15 @@
     "session-name"
   ],
   "license": "MIT",
+  "author": "14sxlin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/14sxlin/pi-herdr-tab-name.git"
+  },
+  "bugs": {
+    "url": "https://github.com/14sxlin/pi-herdr-tab-name/issues"
+  },
+  "homepage": "https://github.com/14sxlin/pi-herdr-tab-name#readme",
   "engines": {
     "node": ">=18"
   },

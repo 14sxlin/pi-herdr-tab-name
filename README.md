@@ -23,6 +23,12 @@ Outside a herdr pane (plain terminal, headless run) the extension is inert: it r
 pi install npm:pi-herdr-tab-name
 ```
 
+Or from the GitHub repository:
+
+```bash
+pi install git:github.com/14sxlin/pi-herdr-tab-name
+```
+
 Try without installing:
 
 ```bash
